@@ -1,0 +1,16 @@
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\bin\Debug\Khmil_lab_2.exe.config
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\bin\Debug\Khmil_lab_2.exe
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\bin\Debug\Khmil_lab_2.pdb
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.csprojAssemblyReference.cache
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\App.g.cs
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2_MarkupCompile.cache
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2_MarkupCompile.lref
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Views\MainWindow.baml
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.g.resources
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.Properties.Resources.resources
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.csproj.GenerateResource.cache
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.exe
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\Khmil_lab_2.pdb
+C:\Users\kosty\source\repos\Khmil_lab_2\Khmil_lab_2\obj\Debug\GeneratedInternalTypeHelper.g.cs
